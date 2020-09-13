@@ -1,0 +1,17 @@
+Jestem liczbą: 0, a moja wartość to: 1
+Jestem liczbą: 1, a moja wartość to: 2
+Jestem liczbą: 2, a moja wartość to: 5
+Jestem liczbą: 3, a moja wartość to: 2
+Jestem liczbą: 4, a moja wartość to: 1
+Jestem liczbą: 0, a moja wartość to: 1
+Jestem liczbą: 0, a moja wartość to: 1
+Jestem liczbą: 0, a moja wartość to: 1
+Jestem liczbą: 1, a moja wartość to: 2
+Jestem liczbą: 2, a moja wartość to: 5
+Jestem liczbą: 3, a moja wartość to: 2
+Jestem liczbą: 4, a moja wartość to: 1
+Jestem liczbą: 0, a moja wartość to: 1
+Jestem liczbą: 1, a moja wartość to: 2
+Jestem liczbą: 2, a moja wartość to: 5
+Jestem liczbą: 3, a moja wartość to: 2
+Jestem liczbą: 4, a moja wartość to: 1
